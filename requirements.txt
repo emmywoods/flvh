@@ -1,0 +1,13 @@
+beautifulsoup4
+certifi
+chardet
+click
+idna
+joblib
+nltk
+regex
+requests
+soupsieve
+tqdm
+urllib3
+wikipedia
